@@ -75,7 +75,7 @@ alias fgrep='fgrep --color=auto'
 #readable output
 alias df='df -h'
 
-alias cat='bat '
+alias cat='bat --style header --style snip --style changes --style header'
 alias rg='batgrep '
 
 #continue download
